@@ -9,7 +9,7 @@ Dasar teori yang melandasi materi ini berpusat pada konsep sistem kontrol versi 
 
 Praktikum
 
-1️⃣ <img src="instalgit1.jpg" alt="Instalgit1">
+1️⃣ <img src="instalgit1.jpg" alt="">
 
 👨‍💻 Kesimpulan
 
