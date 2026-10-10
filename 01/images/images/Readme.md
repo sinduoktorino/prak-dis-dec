@@ -143,14 +143,14 @@ Gambar diatas menunjukkan tahap konfigurasi identitas pengguna pada git secara g
 
 2.
 
-<img src="git config" alt=" Git Config">
+<img src="git config.png" alt="Git Config">
 
 Pembahasan:
 Gambar diatas memperlihatkan isi dari file konfigurasi global Git bernama titik git config yang terbuka di dalam teks editor, di mana terdapat bagian identitas pengguna yang menampilkan nama pengguna sinduoktorino serta alamat email sinduoktorino70@gmail.com yang telah berhasil disimpan secara permanen pada sistem komputer.
 
 3.
 
-<img src="git list" alt="Git List">
+<img src="git list.png" alt="Git List">
 
 Pembahasan:
 Gambar diatas memperlihatkan proses pengecekan seluruh konfigurasi git yang aktif pada komputer melalui perintah git config list di terminal command prompt. Melalui tampilan tersebut, sistem mencetak berbagai parameter pengaturan yang telah diterapkan sebelumnya mulai dari filter lfs, pengaturan ssl backend, autocrlf, fscache, credential helper hingga identitas akun pengguna atas nama sinduoktorino dengan alamat email sinduoktorino70@gmail.com.
