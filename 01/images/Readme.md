@@ -7,6 +7,10 @@ Praktikum ini bertujuan untuk memberikan pemahaman mendalam serta keterampilan p
 
 Dasar teori yang melandasi materi ini berpusat pada konsep sistem kontrol versi yang memungkinkan pengembang merekam setiap rekam jejak dan perombakan dalam berkas proyek dari waktu ke waktu secara terdistribusi. Git bekerja dengan menyimpan snapshot perubahan pada repositori lokal, sehingga setiap anggota tim dapat bekerja secara independen tanpa bergantung penuh pada koneksi server terpusat. Sementara itu, GitHub berperan sebagai platform komputasi awan yang memfasilitasi sinkronisasi riwayat repositori lokal ke repositori jarak jauh, sekaligus menyediakan infrastruktur pelacak isu (issue tracker), mekanisme tinjauan kode (code review), dan manajemen proyek kolaboratif untuk menjamin efisiensi serta integritas perangkat lunak yang dikembangkan secara bersama.
 
+Praktikum
+
+1️⃣ <img src="instalgit1.jpg" alt="Instalgit1">
+
 👨‍💻 Kesimpulan
 
 Penggunaan Git dan GitHub secara terintegrasi terbukti efisien dalam mempermudah alur kerja pengembangan perangkat lunak modern. Pemahaman terhadap alur kendali versi lokal hingga sinkronisasi repositori awan memungkinkan pengembang untuk melacak rekam jejak perubahan kode secara rinci, meminimalkan risiko konflik kode, serta meningkatkan efektivitas kolaborasi dalam tim pengembang.
