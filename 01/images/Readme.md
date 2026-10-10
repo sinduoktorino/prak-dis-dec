@@ -54,10 +54,66 @@ Pembahasan:
 Gambar diatas merupakan tahap pengaturan nama branch utama untuk repository baru di mana pengguna dapat memilih untuk menggunakan nama bawaan sistem seperti master atau mengubahnya secara manual menjadi main sesuai kebutuhan
 
 7.
-<img src="images/install git 6.jpg" alt="Instal git 6">
+<img src="images/install git 7.jpg" alt="Instal git 7">
 
+Pembahasan:
+Gambar diatas merupakan tahap konfigurasi path environment untuk menentukan cara penggunaan git dari command line, di mana opsi yang direkomendasikan dipilih agar perintah git dapat dijalankan melalui git bash, command prompt, powershell, maupun aplikasi pihak ketiga lainnya
 
+8.
 
+<img src="images/install git 8.jpg" alt="Instal git 8">
+
+Pembahasan:
+Gambar diatas adalah tahap pemilihan pustaka SSL/TLS yang digunakan oleh Git untuk koneksi HTTPS, di mana pengguna dapat memilih antara menggunakan pustaka OpenSSL atau pustaka bawaan Windows Secure Channel sesuai kebutuhan sistem
+
+9.
+
+<img src="images/install git 9.jpg" alt="Instal git 9">
+
+Pembahasan:
+Gambar diatas adlah tahap konfigurasi penanganan akhir baris teks pada file, di mana opsi yang disarankan dipilih agar git secara otomatis mengonversi format baris saat melakukan checkout dan commit antar sistem operasi yang berbeda
+
+10.
+
+<img src="images/install git 10.jpg" alt="Instal git 10">
+
+Pembahasan:
+Gambar diatas adalah tahap pemilihan emulator terminal yang akan digunakan bersama git bash, di mana pengguna dapat memilih menggunakan mintty sebagai emulator bawaan msys2 yang memiliki jendela yang dapat diubah ukurannya atau menggunakan console window bawaan windows
+
+11.
+
+<img src="images/install git 11.jpg" alt="Instal git 11">
+
+Pembahasan:
+Gambar diatas adalah tahap pengaturan perilaku bawaan untuk perintah git pull yang menentukan bagaimana pembaruan kode dari server digabungkan ke repositori lokal, baik melalui metode penggabungan otomatis maupun rebase.
+
+12.
+
+<img src="images/install git 12.jpg" alt="Instal git 12">
+
+Pembahasan:
+Gambar diatas adalah tahap pemilihan pengelola kredensial untuk membantu menyimpan informasi akun git secara otomatis agar pengguna tidak perlu memasukkan kata sandi setiap kali melakukan interaksi dengan repositori jarak jauh.
+
+13.
+
+<img src="images/install git 13.jpg" alt="Instal git 13">
+
+Pembahasan:
+Gambar diatas adalaha tahap konfigurasi opsi tambahan untuk mengaktifkan fitur caching sistem file agar kinerja operasi git menjadi lebih cepat dan optimal sebelum proses instalasi dimulai.
+
+14.
+
+<img src="images/install git 14.jpg" alt="Instal git 14">
+
+Pembahasan:
+Gambar diatas adalah tahap proses instalasi yang sedang berjalan di mana sistem menyalin dan mengekstrak berkas program git ke dalam direktori penyimpanan komputer secara otomatis.
+
+15.
+
+<img src="images/install git 15.jpg" alt="Instal git 15">
+
+Pembahasan:
+Tahap penyelesaian proses pemasangan di mana aplikasi git telah berhasil terinstal secara keseluruhan pada komputer dan pengguna dapat mengeklik tombol finish untuk menutup jendela pengaturan.
 
 👨‍💻 Kesimpulan
 
