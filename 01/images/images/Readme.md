@@ -141,6 +141,19 @@ Konfigurasi GitHub
 Pembahasan:
 Gambar diatas menunjukkan tahap konfigurasi identitas pengguna pada git secara global, di mana perintah git config global user name dan git config global user email dijalankan untuk mendaftarkan nama akun serta alamat email agar setiap riwayat perubahan kode atau commit yang dilakukan teridentifikasi dengan jelas pada repositori.
 
+2.
+
+<img src="git config" alt="Config Git">
+
+Pembahasan:
+Gambar diatas memperlihatkan isi dari file konfigurasi global Git bernama titik git config yang terbuka di dalam teks editor, di mana terdapat bagian identitas pengguna yang menampilkan nama pengguna sinduoktorino serta alamat email sinduoktorino70@gmail.com yang telah berhasil disimpan secara permanen pada sistem komputer.
+
+3.
+
+<img src="git list" alt="List Git">
+
+Pembahasan:
+Gambar diatas memperlihatkan proses pengecekan seluruh konfigurasi git yang aktif pada komputer melalui perintah git config list di terminal command prompt. Melalui tampilan tersebut, sistem mencetak berbagai parameter pengaturan yang telah diterapkan sebelumnya mulai dari filter lfs, pengaturan ssl backend, autocrlf, fscache, credential helper hingga identitas akun pengguna atas nama sinduoktorino dengan alamat email sinduoktorino70@gmail.com.
 
 👨‍💻 Kesimpulan
 
