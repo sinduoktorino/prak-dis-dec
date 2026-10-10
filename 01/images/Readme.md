@@ -21,6 +21,43 @@ Gambar diatas merupakan salah satu tahapan awal dalam proses instalasi aplikasi 
 <img src="images/install git 2.jpg" alt="Instal Git 2">
 
 Pembahasan:
+Gambar diatas menunjukkan tahapan pemilihan lokasi penyimpanan untuk instalasi aplikasi Git di dalam komputer. Pada jendela tersebut terdapat kolom direktori tujuan di mana secara default sistem akan menginstal program Git ke dalam folder program files. Pengguna juga dapat mengubah lokasi penyimpanan folder tersebut dengan mengeklik tombol browse jika diinginkan. Selain itu terdapat informasi mengenai kapasitas ruang kosong pada disk yang diperlukan untuk melanjutkan proses pemasangan perangkat lunak. Setelah menentukan lokasi folder tujuan, pengguna dapat mengeklik tombol next untuk melanjutkan ke langkah berikutnya.
+
+3.
+
+<img src="images/install git 3.jpg" alt="Instal Git 3">
+
+Pembahasn:
+Gamnar diatas adalah tahap pemilihan komponen tambahan untuk instalasi git yang memungkinkan pengguna mencentang berbagai fitur pendukung seperti integrasi windows explorer dan dukungan file besar sesuai kebutuhan sebelum melanjutkan ke langkah berikutnya.
+
+4.
+
+<img src="images/install git 4.jpg" alt="Instal Git 4">
+
+Pembahasan:
+Gambar diatas adalah tahap penentuan nama folder shortcut program pada Start Menu Windows agar aplikasi mudah diakses, di mana pengguna dapat memilih lokasi penyimpanan pintasan atau mencentang opsi untuk tidak membuatnya.
+
+5.
+
+<img src="images/install git 5 1.jpg" alt="Instal git 5 1">
+<img src="images/install git 5 2.jpg" alt="Instal git 5 2">
+<img src="images/install git 5 3.jpg" alt="Instal git 5 3">
+
+Pembahasan:
+Gambar diatas adalah tahap pemilihan aplikasi teks editor bawaan yang akan digunakan oleh Git, di mana pengguna dapat memilih berbagai editor seperti Vim, Nano, Notepad, atau Visual Studio Code melalui menu dropdown sesuai kenyamanan penggunaan.
+
+6.
+
+<img src="images/install git 6.jpg" alt="Instal git 6">
+
+Pembahasan:
+Gambar diatas merupakan tahap pengaturan nama branch utama untuk repository baru di mana pengguna dapat memilih untuk menggunakan nama bawaan sistem seperti master atau mengubahnya secara manual menjadi main sesuai kebutuhan
+
+7.
+<img src="images/install git 6.jpg" alt="Instal git 6">
+
+
+
 
 👨‍💻 Kesimpulan
 
