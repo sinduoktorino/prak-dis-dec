@@ -9,7 +9,18 @@ Dasar teori yang melandasi materi ini berpusat pada konsep sistem kontrol versi 
 
 Praktikum
 
-1️⃣ <img src="images/instalgit1.jpg" alt="Instal Git 1">
+1.
+
+<img src="images/instalgit1.jpg" alt="Instal Git 1">
+
+Pembahasan:
+Gambar diatas merupakan salah satu tahapan awal dalam proses instalasi aplikasi Git for Windows di komputer. Pada jendela instalasi ini ditampilkan informasi mengenai lisensi perangkat lunak yaitu GNU General Public License. Pengguna diminta untuk membaca ketentuan dan informasi penting terkait penggunaan perangkat lunak tersebut sebelum melanjutkan proses instalasi. Setelah membaca ketentuan lisensi yang tertera, pengguna dapat mengklik tombol next untuk melanjutkan ke tahap pengaturan instalasi berikutnya.
+
+2.
+
+<img src="images/install git 2.jpg" alt="Instal Git 2">
+
+Pembahasan:
 
 👨‍💻 Kesimpulan
 
