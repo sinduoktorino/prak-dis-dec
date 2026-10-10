@@ -9,7 +9,7 @@ Praktikum
 
 1.
 
-<img src="images/taskmanager" alt="TaskManager">
+<img src="images/taskmanager.png" alt="TaskManager">
 
 Pembahasan:
 
