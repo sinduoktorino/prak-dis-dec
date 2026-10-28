@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  node1:
+    image: apacheignite/ignite:3.0.0
+    container_name: ignite3-node1-1
+    ports:
+      - "10300:10300"
+      - "10800:10800"
+
+  node2:
+    image: apacheignite/ignite:3.0.0
+    container_name: ignite3-node2-1
+    ports:
+      - "10301:10300"
+      - "10801:10800"
+
+  node3:
+    image: apacheignite/ignite:3.0.0
+    container_name: ignite3-node3-1
+    ports:
+      - "10302:10300"
+      - "10802:10800"
