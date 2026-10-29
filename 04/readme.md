@@ -26,7 +26,7 @@ Pembahasan:
 
 Pembahasan:
 
-<img src="images/setup3.png" width="700">
+<img src="images/install2.png" width="700">
 
 Pembahasan:
 
