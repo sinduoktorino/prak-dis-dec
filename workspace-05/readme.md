@@ -28,7 +28,7 @@ mengalami kegagalan. Salah satu mekanismenya adalah heartbeat, yaitu protokol un
 <img src="images/install0.png" width="700">
 
 <img src="images/install1.png" width="700">
-<img src="images/install2.png" width="700">
+<img src="images/instal2.png" width="700">
 <img src="images/install3.png" width="700">
 
 **📝 Pembahasan:**
