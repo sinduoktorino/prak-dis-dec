@@ -117,11 +117,33 @@ Container Podman dijalankan dengan pemetaan port yang sama, yaitu port 5001 pada
 
 ## Tugas
 
-SaaS, PaaS, dan IaaS memiliki tingkat abstraksi dan tanggung jawab pengelolaan yang berbeda. Contoh SaaS adalah Google Workspace yang menyediakan aplikasi produktivitas seperti email, penyimpanan dokumen, dan kolaborasi langsung melalui browser. Pengguna hanya mengelola data serta konfigurasi layanannya, sementara penyedia mengelola aplikasi, runtime, sistem operasi, server, dan jaringan.
+1.  Contoh Vendor SaaS, PaaS, dan IaaS
 
-Contoh PaaS adalah Google App Engine yang menyediakan platform untuk membangun dan menjalankan aplikasi. Pengembang hanya mengelola kode serta konfigurasi aplikasi, sedangkan penyedia mengelola runtime, framework pendukung, sistem operasi, server, penyimpanan, dan skalabilitas.
+    SaaS (Software as a Service): Google Workspace (sebelumnya G Suite)
 
-Contoh IaaS adalah Google Compute Engine yang menyediakan virtual machine beserta kapasitas komputasi, penyimpanan, dan jaringan. Pengguna mengelola sistem operasi, runtime, aplikasi, serta konfigurasi keamanan, sedangkan penyedia mengelola server fisik, virtualisasi, jaringan dasar, dan pusat data.
+    PaaS (Platform as a Service): Heroku (anak perusahaan Salesforce)
+
+    IaaS (Infrastructure as a Service): Amazon Web Services (AWS) — khususnya layanan Amazon EC2
+
+2. Uraian Layanan (Service) dari Masing-Masing Vendor
+
+| Kategori XaaS | Contoh Vendor | Uraian Layanan (*Service*) yang Disediakan |
+| :--- | :--- | :--- |
+| **SaaS** (*Software as a Service*) | **Google Workspace** | Menyediakan perangkat lunak produktivitas dan kolaborasi berbasis cloud yang siap pakai langsung melalui peramban web atau aplikasi seluler. Layanannya mencakup surel bisnis (**Gmail**), penyimpanan awan (**Google Drive**), pengolah dokumen (**Docs, Sheets, Slides**), serta konferensi video (**Google Meet**). Pengguna tidak perlu mengurus instalasi, pemeliharaan server, maupun pembaruan perangkat lunak. |
+| **PaaS** (*Platform as a Service*) | **Heroku** | Menyediakan lingkungan platform lengkap bagi pengembang (*developer*) untuk membangun, menjalankan, dan mengelola aplikasi tanpa harus memusingkan infrastruktur server di baliknya. Layanannya meliputi dukungan berbagai bahasa pemrograman (Node.js, Python, Ruby, Java), manajemen basis data terkelola (*Heroku Postgres*), integrasi CI/CD otomatis dari Git, serta penskalaan sumber daya aplikasi secara instan. |
+| **IaaS** (*Infrastructure as a Service*) | **Amazon Web Services (AWS EC2)** | Menyediakan infrastruktur komputasi virtual dasar melalui internet dengan sistem bayar sesuai pemakaian (*pay-as-you-go*). Layanannya mencakup penyewaan mesin virtual (*Virtual Machines/Instances*), kapasitas penyimpanan blok dan objek (**EBS & S3**), konfigurasi jaringan virtual (**VPC**), penyeimbang beban (*Load Balancer*), serta firewall keamanan. Pengguna memiliki kendali penuh atas sistem operasi dan aplikasi yang diinstal di dalamnya. |
+
+3. Visualisasi dan Penjelasan Arsitektur XaaS
+
+    <img src="images/diagram.jpeg" width="700">
+
+    1. On-Premises (Sebagai Pembanding): Seluruh 9 lapisan arsitektur—dari jaringan fisik hingga aplikasi—dikelola dan dibiayai sepenuhnya secara mandiri oleh pengguna di pusat data lokal.
+
+    2. Arsitektur IaaS: Vendor mengambil alih pengelolaan infrastruktur fisik dan virtualisasi (Networking, Storage, Servers, Virtualization). Pengguna tetap mengelola lapisan sistem operasi (OS), middleware, runtime, data, hingga aplikasi di atasnya.
+
+    3. Arsitektur PaaS: Vendor memperluas pengelolaannya hingga ke tingkat sistem operasi,      middleware, dan runtime. Arsitektur ini memungkinkan pengembang fokus hanya pada lapisan teratas, yaitu Data dan Applications yang mereka bangun.
+
+    4. Arsitektur SaaS: Vendor mengelola seluruh tumpukan (full-stack) dari lapisan jaringan paling bawah hingga Applications dan Data di paling atas. Pengguna akhir cukup mengakses layanan melalui antarmuka klien (browser/aplikasi) dan menggunakan fiturnya secara langsung.
 
 ## Kesimpulan
 
